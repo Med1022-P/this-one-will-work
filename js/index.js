@@ -1,3 +1,6 @@
+//git username = "med";
+//git email = "mohamedouhamane550@gmail.com"
+
 //git commands
 // git init => starts a repo inside the current project.
 // git classifies the files in the project to two states:
@@ -15,3 +18,6 @@
 
 //When file is committed, It will change state to unmodified again.
 
+//repo history
+
+//git log => reveal the repo history
