@@ -33,5 +33,6 @@
 
 //git checkout "branch name"=> switch to the branch by its name
 
+//git merge
 
 //Master branch:
