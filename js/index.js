@@ -25,3 +25,12 @@
 
 //Create a new Github repository:
 
+//git remote add origin <<url>>.git; 
+
+//Branches:
+
+//git branch => reveal the branches
+
+
+
+//Master branch:
